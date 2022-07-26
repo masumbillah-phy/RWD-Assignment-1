@@ -4,10 +4,8 @@
     box-sizing: border-box;
 }
 .team-members{
-    margin-left: 5%;
-    margin-right: 5%;
+    margin: 5%;
     text-align: center;
-    margin-top: 5%;
 }
 .team-members h2{
     font-size: 40px;
